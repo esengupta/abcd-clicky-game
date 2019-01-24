@@ -1,7 +1,7 @@
 .Card {
   background: rgba(62, 207, 195, 0.87);
-  border-radius: 1px;
-  text-align: center;
+  border-radius: 2px;
+  text-align: left;
   justify-content: center;
   box-shadow: 0 3px 6px rgb(231, 192, 192), 0 3px 6px #999;
 
@@ -15,21 +15,21 @@
 }
 
 .card>.img-container>img {
-  width: 200px;
+  width: 150px;
 }
 
 .card>.img-container {
   overflow: hidden;
   text-align: center;
-  background: peru;
+  background: white;
   justify-content: center;
-  margin: 10px;
+  margin: 5px;
 }
 
 .card-header {
   padding: .75rem 1.25rem;
   margin-bottom: 0;
-  width: 100px;
+  width: 150px;
   color: black;
   background-color: white;
   border-bottom: 2px solid rgba(0,0,0,.125);
