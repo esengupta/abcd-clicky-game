@@ -1,0 +1,15 @@
+.wrapper{
+  /* width: 100%; */
+  text-align: center;
+  /* color: white; */
+  padding-top: 40px;
+  background: rgba(206, 222, 135, 0.932);
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: center;
+  align-content: center;
+  overflow: auto;
+}
+

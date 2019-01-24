@@ -1,0 +1,13 @@
+.title{
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+.scoreSummary{
+  width: 190%;
+  text-align: center;
+  color: white;
+  margin-bottom: 40px;
+  /* color:white; */
+}
